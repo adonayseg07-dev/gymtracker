@@ -1,0 +1,6 @@
+GYMTRACKER - GUIA RAPIDA
+1. Crea un proyecto en supabase.com y ejecuta supabase/schema.sql en el SQL Editor.
+2. Copia Project URL y clave anon (Settings > API).
+3. En Replit: sube los archivos, abre Secrets y crea VITE_SUPABASE_URL y VITE_SUPABASE_ANON_KEY.
+4. En la terminal: npm install  y luego pulsa Run.
+5. Crea tu cuenta, completa el perfil, marca tu equipo y crea tu primera rutina.
